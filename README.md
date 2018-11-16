@@ -4,7 +4,7 @@ Essa script tem relevancia para empresas, pois auxilia na alteração e implemen
 Neste script coletamos as informações do usuário logado na workstation e adicionamos no html as suas respectivas informações que estejam armazenadas no AD.
 
 0. Pré requisitos básicos para uma boa manutenção:
-  0.1. File Server Windows ou Linux para alocar o template base.
+0.1. File Server Windows ou Linux para alocar o template base.
   
 1. Crie um template da assinatura de email da sua empresa ou utilize o nosso template como base.
 
